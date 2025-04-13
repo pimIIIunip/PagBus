@@ -64,4 +64,4 @@ Este projeto é parte da disciplina de Projeto Integrado Multidisciplinar (PIM I
 
 ---
 
-## © 2024 PagBus Solutions. Projeto fictício para fins acadêmicos.
+## © 2024 PagBus Solutions.
