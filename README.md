@@ -46,14 +46,16 @@ Este projeto é parte da disciplina de Projeto Integrado Multidisciplinar (PIM I
 ## 👨‍💻 Equipe PagBus (InfinityWare)  
 | Nome                     | Função                      |
 |--------------------------|-----------------------------|
-| Manoella Moura          | Analista de Requisitos      |
-| [Nome da Pessoa 2]       | UI/UX Designer              |
-| [Nome da Pessoa 3]       | Dev Back-End / Banco de Dados |
-| [Nome da Pessoa 4]       | Documentação e QA           |
+| Manoella Moura           | Product Owner               |
+| Micael Leal              | Scrum Master                |
+| Cauã Araújo              | Desenvolvedor               |
+| Pedro Henrique           | Desenvolvedor               |
+| Davi Matos               | Desenvolvedor               |
+| João Pedro               | Desenvolvedor               |
 
 ---
 
-## 🛠️ Tecnologias Futuras (PIM IV)  
+## 🛠️ Tecnologias Futuras  
 - C#, ASP.NET, Windows Forms  
 - Android (Mobile)  
 - MS SQL Server  
