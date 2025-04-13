@@ -1,6 +1,6 @@
 # 🚍 PagBus – Suporte Inteligente para Mobilidade Urbana
 
-![PagBus Banner](https://github.com/pimIIIunip/PagBus/blob/main/logoPagBus.png)
+![PagBus Banner](https://github.com/pimIIIunip/PagBus/blob/main/bannerpagbus.png)
 *Soluções modernas de suporte técnico para sistemas de bilhetagem eletrônica no transporte público*
 
 ---
